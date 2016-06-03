@@ -1,0 +1,9 @@
+name: OOInfection
+main: org.outram.OOInfection.Main
+version: 0.1
+
+commands:
+    hello:
+        description: Hello World Example
+    whereami:
+        description: Display your location (x,y,z) in the world
